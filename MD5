@@ -1,0 +1,14 @@
+4206940c42392dc6f8aaad2196bf4000 *DESCRIPTION
+422839665c5afe9849c5a7d2dc040e46 *NAMESPACE
+9da6e418c03e013fe9effa0760b9aa68 *R/char_count.R
+b31cd7fce75f3b306cec7fb5f73a636a *R/data.R
+9bce2f552c4adac0ca34425a45682690 *R/find_word.R
+090d689e38f314035ff8c5ac3aa2411e *R/imports.R
+3dad5430d3b624d7a0b71dd45852140b *R/model_to_regex.R
+9b273d9673152325ae7cc6365a592fc5 *README.md
+75ab14b5589816cc260c9a1660e780eb *data/words.eng.rda
+561d73ef48fd21ee673265fc0690ece2 *man/char_count.Rd
+f5d0379959149b2575faed40056c6724 *man/find_word.Rd
+1a24127b7b392401a9c793221dc009a5 *man/model_to_regex.Rd
+eac9a6b6d2208f54d6d605a63aeeecec *man/scrabble.Rd
+d5a00a8967587c80046716862e340e35 *man/words.eng.Rd
